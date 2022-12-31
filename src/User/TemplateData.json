@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,      
+        "image": "https://www.simpleimageresizer.com/_uploads/photos/bf9778b2/washing_machine_repair_gurgaon_34_99.jpg",
+        "title": "Bluestone Services",
+        "Location": "Hyderabad",
+        "Timings":"9:00am-4:00pm"
+        
+    },
+    {
+        "id": 2,
+        "image1": "https://www.simpleimageresizer.com/_uploads/photos/bf9778b2/Washing-Machine-Repair-Toronto_1_43_99.jpg",
+        "title": "MK Services",
+        "Location": "Chennai",
+        "Timings":"9:30am-3:30pm"
+        
+    },
+    {
+        "id": 3,
+        "image2": "https://www.simpleimageresizer.com/_uploads/photos/bf9778b2/master-set-professional-tools-repairs-washing-machine-machines-repair-service-man-character-uniform-breakdown-253214711_34_99.jpg",
+        "title": "Lapping Services",
+        "Location":"Banglore",
+        "Timings":"10:30am-5:00pm"
+        
+    }
+]
